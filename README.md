@@ -3,7 +3,7 @@
 This repository is all about delving into **Object-Oriented Programming (OOPS)** concepts. It serves as a detailed guide for different OOPS-related topics. For each concept, you'll find examples neatly organized in specific folders to help you grasp the ideas better. The code provided is intentionally clear, and I've taken care to add comments that thoroughly explain each concept. It's like a learning playground where the examples are meant to make understanding OOPS principles easy and enjoyable.
 
 ### Table of contents :
-- [Classes and Objects](#src/classesAndObjects)
+- [Classes and Objects](./src/classesAndObjects)
 
 ## Usage Instructions:
 
@@ -32,10 +32,9 @@ Interested in contributing? Here are some ways you can get involved:
 
 ### License:
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 This repository is licensed under the [MIT License](./LICENSE). Please review the [LICENSE](./LICENSE) file for detailed information regarding permissions and restrictions.
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ### Acknowledgements :
 
