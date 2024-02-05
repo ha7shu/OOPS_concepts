@@ -4,6 +4,7 @@ This repository is all about delving into **Object-Oriented Programming (OOPS)**
 
 ### Table of contents :
 - [Classes and Objects](./src/classesAndObjects)
+- [Inheritance](./src/inheritance)
 
 ## Usage Instructions:
 
